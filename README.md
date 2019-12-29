@@ -30,3 +30,21 @@ ___________________________
 execute T-code -> to ref to ABAPDOCU
 
 ___________________________
+
+# Data Element Object
+
+* C
+
+* N
+
+* I
+
+* D
+
+* P
+
+* T
+
+* F
+
+* X
