@@ -110,6 +110,19 @@ MULTIPLY_CORRESPONDING，此用法現在已經廢除！
             
 ___________________________
 
+* String Process
+
+* Math Function
+
+* Date & Time Calculation
+
+___________________________
+
+#  Business Arithmetics
+
+    TBD
+___________________________
+
 # Data Structure
 
   https://github.com/QueenieCplusplus/Abaper/blob/master/DataStructure.ABAP.rtf
