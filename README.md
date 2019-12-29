@@ -79,3 +79,19 @@ default space plz see https://noahchou.wordpress.com/2011/04/25/abap-範例程�
 
 * X, hexdial
 
+___________________________
+
+# Data Structure
+
+             TYPES: BEGIN OF  <Structure Name>,
+             
+                            ,
+                            
+                            ,
+                            
+                            //...,
+             
+                    END OF <Structure Name>.
+                    
+              Write //...
+
