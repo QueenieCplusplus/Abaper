@@ -367,4 +367,30 @@ ___________________________
 
 # Basis
 
+* Client 
+
+* License Key & Access Key
+
+* Solution Key for Installation
+
+* Support Language
+
+* Client Copy
+
+* MESSAGE
+
+* DOCs for HELP
+
+* DOS | SAP console
+
+* SAP Connect for Email
+
+* SAP Calendar Sync with Outlook
+
+* SAP User O
+
+* Lock Table
+
+* STAD for log
+
 https://noahchou.wordpress.com/sap-basis模組設定手冊/
