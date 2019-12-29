@@ -236,6 +236,8 @@ ___________________________
   *SY_UZEIT, 系統時間
   
   *SY-TCODE, 目前交易的代號
+  
+  https://github.com/QueenieCplusplus/Abaper/blob/master/Date_Conversion.ABAP.rtf
 ___________________________ 
 
 # Message Maintenance, 彈出訊息
