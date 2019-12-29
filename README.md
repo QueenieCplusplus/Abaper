@@ -37,8 +37,8 @@ ___________________________
 
 define Var
 
-       KeyWord  var   options    type      val      options
-          DATA  <f> [<length>]  <type>  [<value>] [<decimals>]
+       KeyWord  var   options    type      val             options
+          DATA  <f> [<length>]  <type>  [<initial value>] [<decimals>]
      
   https://github.com/QueenieCplusplus/Abaper/blob/master/Data.ABAP.rtf
      
