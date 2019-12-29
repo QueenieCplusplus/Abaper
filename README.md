@@ -49,6 +49,11 @@ define Var
 
        KeyWord  var   options    type      val             options
           DATA  <f> [<length>]  <type>  [<initial value>] [<decimals>]
+          
+customed Var
+
+       KeyWord  var   options    type      
+          TYPE  <v> [<length>]  <type>  
      
   https://github.com/QueenieCplusplus/Abaper/blob/master/Data.ABAP.rtf
      
