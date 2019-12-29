@@ -15,6 +15,8 @@ SAP
 
 * Code
 
+  https://github.com/QueenieCplusplus/Abaper/blob/master/Hi.ABAP.rtf
+
 * Text Message
 
 ___________________________
@@ -40,18 +42,18 @@ define Var
            
 Type:
 
-* C
+* C, char
 
-* N
+* N, numerics
 
-* I
+* I, integer
 
-* D
+* D, date
 
-* P
+* P, package#
 
-* T
+* T, time
 
-* F
+* F, float
 
-* X
+* X, hexdial
