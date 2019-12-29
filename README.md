@@ -44,6 +44,8 @@ define Var
      
 Type:
 
+default space plz see https://noahchou.wordpress.com/2011/04/25/abap-範例程式：demonstrates-elementary-data-objects/
+
 * C, char
 
 * N, numerics
