@@ -10,3 +10,7 @@ SAP
 * Class
 
 * Code
+
+# Hot Key
+
+F8 -> Execute
