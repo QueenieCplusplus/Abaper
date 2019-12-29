@@ -81,6 +81,20 @@ default space plz see https://noahchou.wordpress.com/2011/04/25/abap-範例程�
 
 ___________________________
 
+# Math Operations
+
+* /
+
+* DIV
+
+* MOD
+
+MULTIPLY_CORRESPONDING，此用法現在已經廢除！ 
+
+            MULTIPLY_CORRESPONDING field1 BY field2
+            
+___________________________
+
 # Data Structure
 
   https://github.com/QueenieCplusplus/Abaper/blob/master/DataStructure.ABAP.rtf
@@ -97,6 +111,10 @@ ___________________________
                     
               Write //...
               
-MOVE-CORRESPONDING https://noahchou.wordpress.com/2011/04/25/abap-範例程式：demonstration-of-structures/
+MOVE-CORRESPONDING，兩結構的同樣變數給予相同賦值。
+
+              MOVE var1 TO var2
+
+  https://noahchou.wordpress.com/2011/04/25/abap-範例程式：demonstration-of-structures/
 
 Internal Table https://noahchou.wordpress.com/2011/04/25/abap-範例程式：demonstration-of-internal-tables/
