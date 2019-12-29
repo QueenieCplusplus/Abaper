@@ -123,10 +123,67 @@ MULTIPLY_CORRESPONDING，此用法現在已經廢除！
             
 ___________________________
 
-* String Process 
+* String Process, 字串操作語句
 
-  TBD
+  SKIP. 空一行
   
+  ULINE. 畫線
+  
+  * Shift
+  
+  把字符串位按照各種方向移動指定長度，左移或回轉(把移出的字串長度的字符從另一方向回填)。
+  把字符串按照各種方向移動道指定字符位置。
+  移動時刪除指定字符串。
+
+      SHIFT <c> [BY <n> PLACES] [<modes>]
+
+      SHIFT {c} UP TO {str} {mode}.
+
+      SHIFT {c} LEFT DELETING LEADING {C1}. 
+
+      SHIFT {c} RIGHT DELETING TRAILING {C1}. 
+  
+  * Replace
+  
+  替換字串符
+  
+      REPLACE <string1> WITH <string2> into <C>.
+  
+  * Translate
+  
+  大小寫轉換
+  
+        TRANSLATE <c> TO UPPER CASE.
+
+        TRANSLATE <c> TO LOWER CASE.
+  
+  * Overlay
+  
+  覆蓋字符字段 [限制字符]
+  
+      OVERLAY <c1> WITH <C2> [ONLY<str>]. 
+      
+  * Search
+  
+  查找字串符
+  
+       SEARCH {c} FOR {str} {options}.
+       
+  其中模式包含
+  
+  str
+  
+  .str
+  
+  * + str
+  
+  str + *
+  
+  參數的指定
+  
+  STARTING AT {n1} 指定開始位置
+  
+  ENDING AT {n2} 指定結束位置
 ___________________________
 
 * Math Function
@@ -143,7 +200,7 @@ ___________________________
   
   log10(). 底數為10的對數
   
-  sign(). 返回參數的符號
+  sign(). 返回參數的符號(或稱字符)
   
   trunc(). 返回參數的整數部分
   
