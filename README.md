@@ -89,8 +89,14 @@ ___________________________
 
 # Describe
 
-  類似 OOP 中 field 的存取子
-
+  對 field 的存取方式
+  
+  範例：
+  
+        DESCRIBE FIELD var1 LENGTH vLen IN CHARACTER MODE.
+        
+        WRITE: var1, 'has length', vLen.
+  
 ___________________________
 
 # Math Operations
