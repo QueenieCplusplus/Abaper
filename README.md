@@ -216,7 +216,26 @@ ___________________________
 
 * Date & Time Calculation
 
-  TBD
+
+        DATA: ultimo TYPE d.
+        
+        ultimo = sy-datum.
+        
+        WRITE ultimo.
+
+  Costant:
+  
+  *SPACE
+  
+  *SY-SUBRC, 系統執行傳回值
+  
+  *SY-UNAME logon, 帳號
+  
+  *SY_DATUM, 系統日期
+  
+  *SY_UZEIT, 系統時間
+  
+  *SY-TCODE, 目前交易的代號
 ___________________________ 
 
 # Message Maintenance, 彈出訊息
