@@ -94,4 +94,5 @@ ___________________________
                     END OF <Structure Name>.
                     
               Write //...
-
+              
+MOVE-CORRESPONDING https://noahchou.wordpress.com/2011/04/25/abap-範例程式：demonstration-of-structures/
