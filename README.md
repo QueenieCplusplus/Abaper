@@ -53,7 +53,7 @@ define Var
 customed Var
 
        KeyWord  var   options    type      
-          TYPE  <v> [<length>]  <type>  
+          TYPES  <v> [<length>]  <type>  
      
   https://github.com/QueenieCplusplus/Abaper/blob/master/Data.ABAP.rtf
      
