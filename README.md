@@ -75,7 +75,7 @@ default space plz see https://noahchou.wordpress.com/2011/04/25/abap-範例程�
 
 * I, integer
 
-* D, date
+* D, data, 可以進行運算的字符類型
 
 * P, package#
 
