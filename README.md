@@ -176,6 +176,8 @@ ___________________________
 
    其中，主資料幾乎不會被修改，而交易資料經常被修改，公司資料僅在系統安裝後自訂過程中定義一次。
    而其他資料類別，被稱為使用者，放置於特別儲存區，必須在資料庫中分配。
+   
+   https://github.com/QueenieCplusplus/Abaper/blob/master/Data_Class.png
 ___________________________
 
 # ALV, ABAP List Viewer
