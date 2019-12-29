@@ -331,8 +331,10 @@ ___________________________
   (3) 定義程式中所要使用的資料表。
 
   (4) 利用透明表 Form GETDATA 讀取資料。
+  
+  (5) 根據結構體 Form CATALOG，讀取 FIEDCAT。
    
-  (5) 表皮輸出：
+  (6) 表皮輸出：
 
   https://github.com/QueenieCplusplus/Abaper/blob/master/FormALV_Show.ABAP.rtf
   
