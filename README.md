@@ -136,7 +136,7 @@ Internal Table https://noahchou.wordpress.com/2011/04/25/abap-範例程式：dem
 
 # Buffer Setting
 
-資料表設定緩衝，能夠讓資料表紀錄被讀取時，加快讀取速度。
+資料表設定緩衝，能夠讓資料表紀錄被讀取時，加快讀取速度，適用於經常被訪問，但很少被寫入的資料表。
 
 
                                     ABAP Program
