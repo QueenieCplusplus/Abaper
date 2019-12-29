@@ -133,3 +133,16 @@ MOVE-CORRESPONDING，兩結構的同樣變數給予相同賦值。
   https://noahchou.wordpress.com/2011/04/25/abap-範例程式：demonstration-of-structures/
 
 Internal Table https://noahchou.wordpress.com/2011/04/25/abap-範例程式：demonstration-of-internal-tables/
+
+# Buffer Setting
+
+資料表設定緩衝，能夠讓資料表紀錄被讀取時，加快讀取速度。
+
+
+                                    ABAP Program
+
+                                        DBI
+                     
+                                       Network
+
+                          DB -> DB Process <-> DB Buffer
