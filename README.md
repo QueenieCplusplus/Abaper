@@ -179,6 +179,8 @@ ___________________________
   
   str + *
   
+  https://noahchou.wordpress.com/2011/05/03/abap-範例程式：processing-strings/
+  
   參數的指定
   
   STARTING AT {n1} 指定開始位置
