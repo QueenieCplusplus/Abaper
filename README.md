@@ -21,6 +21,16 @@ SAP
 
 ___________________________
 
+# Statement
+
+. , end.
+
+/ , write in alternative line.
+
+: , chain statement.
+
+___________________________
+
 # Hot Key
 
 F8 -> Execute
