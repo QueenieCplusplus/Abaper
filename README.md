@@ -87,6 +87,12 @@ default space plz see https://noahchou.wordpress.com/2011/04/25/abap-範例程�
 
 ___________________________
 
+# Describe
+
+  類似 OOP 中 field 的存取子
+
+___________________________
+
 # Math Operations
 
 * /
@@ -146,6 +152,12 @@ MOVE-CORRESPONDING，兩結構的同樣變數給予相同賦值。
   https://noahchou.wordpress.com/2011/04/25/abap-範例程式：demonstration-of-structures/
 
 Internal Table https://noahchou.wordpress.com/2011/04/25/abap-範例程式：demonstration-of-internal-tables/
+
+___________________________
+
+# Data Class
+
+  TBD
 
 ___________________________
 
