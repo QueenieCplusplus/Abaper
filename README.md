@@ -333,8 +333,10 @@ ___________________________
   (4) 利用透明表 Form GETDATA 讀取資料。
   
   (5) 根據結構體 Form CATALOG，讀取 FIEDCAT。
+  
+  (6) 定義資料來自時 I_STRUCTURE_NAME 及 I_INTERNAL_TABNAME 只需設定一項。
    
-  (6) 表皮輸出：
+  (7) 表皮輸出：
 
   https://github.com/QueenieCplusplus/Abaper/blob/master/FormALV_Show.ABAP.rtf
   
