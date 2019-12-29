@@ -9,7 +9,7 @@ SAP
 
 * Program
 
-  its attr includes Title, Des, Status, and Application.
+  its attr includes Title, "Type", Status, and Application.
  
 * Class
 
