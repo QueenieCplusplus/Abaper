@@ -131,6 +131,10 @@ ___________________________
 
 * Math Function
 
+  DATA n TYPE p DECIMALS 2.
+  
+  DATA m TYPE p DECIMAL2 VALUES '-9.99'
+
   abs(). 絕對值
   
   exp(). 指數
