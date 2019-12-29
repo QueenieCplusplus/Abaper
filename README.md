@@ -137,9 +137,16 @@ ___________________________
 
 ___________________________
 
-#  Business Arithmetics
+#  Business Arithmetics, 商業邏輯運算
 
-    TBD
+     REPORT QsBizReport
+     
+     DATA bottle TYPE p DECIMALS 0.
+     
+     bottle = 1 / 12.
+     
+     WRITE bottle.
+     
 ___________________________
 
 # Data Structure
