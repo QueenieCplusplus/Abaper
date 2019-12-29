@@ -322,7 +322,21 @@ ___________________________
 
 # ALV, ABAP List Viewer
 
+  定義步驟：
+  
+ （1）
+  
+  (2)
+   
+  (3)
+
+  (4)
+   
+  (5) 表皮輸出：
+
   https://github.com/QueenieCplusplus/Abaper/blob/master/FormALV_Show.ABAP.rtf
+  
+  相關連結：
   
   https://noahchou.wordpress.com/2011/12/01/簡單的alv範圍/
   
