@@ -17,10 +17,16 @@ SAP
 
 * Text Message
 
+___________________________
+
 # Hot Key
 
 F8 -> Execute
 
 ___________________________
 
+# Help
 
+execute T-code -> to ref to ABAPDOCU
+
+___________________________
