@@ -164,6 +164,8 @@ ___________________________
 # ALV, ABAP List Viewer
 
   TBD
+  
+  https://noahchou.wordpress.com/2011/12/07/較多功能的alv範例/#more-2586
 
 ___________________________
 
