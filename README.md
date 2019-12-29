@@ -141,6 +141,23 @@ ___________________________
 由點選 Goto 按鈕進入，新增此警示訊息，進入 Message 頁籤，內部有定義訊息的 4 個參數，如要使用
 長字串，則不能選擇 self-explanatory。
 
+訊息類型：
+
+* E, error
+
+* W, warn
+
+* I, info
+
+* A, abnormal
+
+* S, success
+
+程式碼：
+
+      REPORT PQK_TEST_MSG.
+      
+      MESSAGE ID 'PQK' TYPE 'E' NUMBER '003'.
 ___________________________
 
 #  Business Arithmetics, 商業邏輯運算
