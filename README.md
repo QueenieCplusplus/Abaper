@@ -89,6 +89,13 @@ ___________________________
 
 * MOD
 
+* ADD
+
+            ADD field1 THEN field2 UNTIL field6 GIVING sum.
+>>>           
+
+            ADD field1 THEN field2 UNTIL field6 GIVING sum.
+
 MULTIPLY_CORRESPONDING，此用法現在已經廢除！ 
 
             MULTIPLY_CORRESPONDING field1 BY field2
