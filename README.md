@@ -33,6 +33,13 @@ ___________________________
 
 # Data Element Object
 
+define Var
+
+       KeyWord  var   options    type      val      options
+          DATA  <f> [<length>]  <type>  [<value>] [<decimals>]
+           
+Type:
+
 * C
 
 * N
