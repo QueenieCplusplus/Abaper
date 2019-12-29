@@ -339,6 +339,12 @@ ___________________________
                      
                                        Network
 
-                          DB -> DB Process <-> DB Buffer
+   
+                             DB -> DB Process <-> DB Buffer
+                             
+                             
+___________________________
 
+# Basis
 
+https://noahchou.wordpress.com/sap-basis模組設定手冊/
