@@ -91,6 +91,8 @@ ___________________________
 
 * ADD
 
+* ＊＊
+
             ADD field1 THEN field2 UNTIL field6 GIVING sum.
 >>>           
 
