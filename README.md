@@ -163,9 +163,19 @@ Internal Table https://noahchou.wordpress.com/2011/04/25/abap-範例程式：dem
 ___________________________
 
 # Data Class
+  
+  資料類別邏輯上定義了新增的 Table 儲存在 DB 的物理區域。
+  
+  
+      TablesSpaceA    TableSpaceB   TableSpaceC     TableSpaceD     TMP
+      Master          Company       Transaction     System          USER
 
-  TBD
+      Table1               
+      Table6          Table2        Table3          Table4
+      Table8          Table7        Table5          Table9          Table
 
+   其中，主資料幾乎不會被修改，而交易資料經常被修改，公司資料僅在系統安裝後自訂過程中定義一次。
+   而其他資料類別，被稱為使用者，放置於特別儲存區，必須在資料庫中分配。
 ___________________________
 
 # ALV, ABAP List Viewer
