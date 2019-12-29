@@ -5,7 +5,7 @@ SAP
 
 * Package 
   
-  its attr including Appl Components, Transport Layer.
+  its attr including Appl Components, Transport Layer, and Req no.
 
 * Program
 
