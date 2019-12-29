@@ -97,6 +97,7 @@ ___________________________
         
         WRITE: var1, 'has length', vLen.
   
+   https://noahchou.wordpress.com/2011/04/26/abap-範例程式：demonstration-of-describe-field/
 ___________________________
 
 # Math Operations
