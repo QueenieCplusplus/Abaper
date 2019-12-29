@@ -83,6 +83,8 @@ ___________________________
 
 # Data Structure
 
+  https://github.com/QueenieCplusplus/Abaper/blob/master/DataStructure.ABAP.rtf
+
              TYPES: BEGIN OF  <Structure Name>,
              
                             ,
